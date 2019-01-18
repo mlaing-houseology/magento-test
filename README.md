@@ -1,2 +1,1 @@
-# magento-test
-Magento Technical Test
+# Magento Technical Test
